@@ -1,0 +1,10 @@
+gradio==5.38.0
+openai==1.63.2
+transformers==4.40.0
+torch==2.6.0
+blinker==1.6.2
+Pillow==9.3.0
+flask==3.0.3
+langchain==0.3.26
+langchain_openai==0.3.28
+python-dotenv==1.1.1
